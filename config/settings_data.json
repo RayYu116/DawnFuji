@@ -1,8 +1,13 @@
 {
   "current": {
     "colors_accent_1": "#1878b9",
+    "type_header_font": "montserrat_n4",
+    "type_body_font": "montserrat_n4",
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
     "social_facebook_link": "https:\/\/www.facebook.com\/gocln.japan\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/gocln.japan\/",
+    "favicon": "shopify:\/\/shop_images\/favicon_e3e0342d-fac6-426b-ba17-6ebec9e9a7b8.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
