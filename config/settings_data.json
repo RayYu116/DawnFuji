@@ -39,8 +39,8 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Guide",
+              "menu": "guide"
             }
           }
         },
@@ -48,9 +48,9 @@
           "footer-0"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up to our emails",
+          "newsletter_heading": "最新情報やお得なセールの案内をお届けします。",
           "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,

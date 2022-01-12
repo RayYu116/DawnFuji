@@ -6,26 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "IMPROVE YOUR HEALTH"
           }
         },
-        "button": {
-          "type": "buttons",
+        "2725b9f3-0f71-461c-a8fd-c8ad86d28d71": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "理想のカラダを目指すあなたへ"
           }
         }
       },
       "block_order": [
         "heading",
-        "button"
+        "2725b9f3-0f71-461c-a8fd-c8ad86d28d71"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/202108_ShopifySlide_GoCLN_All.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
@@ -35,7 +31,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "GoCLN",
+        "title": "GoCLN（ゴークリーン）",
         "collection": "gocln_life-style-nutrition",
         "products_to_show": 10,
         "show_view_all": false,
@@ -46,44 +42,10 @@
         "show_vendor": false
       }
     },
-    "image_text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "1626679471a4e66e04": {
       "type": "featured-collection",
       "settings": {
-        "title": "BrainCoffee",
+        "title": "マッシュルームドリンクーブレインヘルスシリーズ",
         "collection": "brain-series_nootropics",
         "products_to_show": 6,
         "show_view_all": false,
@@ -93,12 +55,77 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "164196240952c6a159": {
+      "type": "multicolumn",
+      "blocks": {
+        "1641962409465b0b8e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1641962409465b0b8e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1641962409465b0b8e-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "e63b1918-b5f7-48f2-854f-d15d39c44037": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "4bbdbe33-e651-4cda-98c9-eb4c46116eed": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "d88b24da-27bf-40bd-acaa-3f9919804851": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1641962409465b0b8e-0",
+        "1641962409465b0b8e-1",
+        "1641962409465b0b8e-2",
+        "e63b1918-b5f7-48f2-854f-d15d39c44037",
+        "4bbdbe33-e651-4cda-98c9-eb4c46116eed",
+        "d88b24da-27bf-40bd-acaa-3f9919804851"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "image_text",
-    "1626679471a4e66e04"
+    "1626679471a4e66e04",
+    "164196240952c6a159"
   ]
 }
