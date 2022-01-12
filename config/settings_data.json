@@ -1,6 +1,8 @@
 {
   "current": {
     "colors_accent_1": "#1878b9",
+    "social_facebook_link": "https:\/\/www.facebook.com\/gocln.japan\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/gocln.japan\/",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -8,7 +10,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "お買い上げ5,000円以上（沖縄・離島は10,000円以上／税込価格）− 送料無料",
               "color_scheme": "accent-1",
               "link": ""
             }
