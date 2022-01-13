@@ -42,6 +42,33 @@
         "show_vendor": false
       }
     },
+    "16420443856fa25780": {
+      "type": "image-with-text",
+      "blocks": {
+        "1642044385c672dc39-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us"
+          }
+        },
+        "1642044385c672dc39-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>私たちは、「あしたのあなたのために、今日のあなたができること」をご提供します。溢れる活力と幸せで充実した生活を過ごせるよう、健康な身体作りをお手伝いします！<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1642044385c672dc39-0",
+        "1642044385c672dc39-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/202102_Shopify_02.jpg",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
     "1626679471a4e66e04": {
       "type": "featured-collection",
       "settings": {
@@ -111,6 +138,7 @@
   "order": [
     "image_banner",
     "featured_products",
+    "16420443856fa25780",
     "1626679471a4e66e04",
     "1641963790054b7fbe",
     "1641964462a48eb9a2"
