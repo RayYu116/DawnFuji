@@ -458,13 +458,13 @@ class SliderComponent extends HTMLElement {
   initPages() {
     if (!this.sliderItems.length === 0) return;
     this.slidesPerPage = Math.floor(this.slider.clientWidth / this.sliderItems[0].clientWidth);
-    this.totalPages = this.sliderItems.length - this.slidesPerPage + 1;
+    this.totalPages = this.sliderItems.length - this.slidesPerPage + 4;
     this.update();
   }
 
   update() {
     if (!this.pageCount || !this.pageTotal) return;
-    this.currentPage = Math.round(this.slider.scrollLeft / this.sliderItems[0].clientWidth) + 1;
+    this.currentPage = Math.round(this.slider.scrollLeft / this.sliderItems[0].clientWidth) + 4;
 
     if (this.currentPage === 1) {
       this.prevButton.setAttribute('disabled', true);
