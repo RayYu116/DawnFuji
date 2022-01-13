@@ -80,6 +80,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "オススメ商品",
         "image_ratio": "adapt",
