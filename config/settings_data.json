@@ -45,13 +45,37 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Guide",
+              "heading": "PRODUCTS",
+              "menu": "products"
+            }
+          },
+          "1a8a3841-e2db-49b0-8b2a-0a06875e7b03": {
+            "type": "link_list",
+            "settings": {
+              "heading": "LEARN MORE",
+              "menu": "learn-more"
+            }
+          },
+          "e7df6673-ab3b-4f6b-baef-a80bf1461e2b": {
+            "type": "link_list",
+            "settings": {
+              "heading": "GUIDE",
               "menu": "guide"
+            }
+          },
+          "63e2ad83-53f0-41ac-bcbd-65dc679b15d0": {
+            "type": "text",
+            "settings": {
+              "heading": "FUJI ORGANICS",
+              "subtext": "<p>東京都港区六本木3-16-35<br\/>イースト六本木ビル501号support@fujiorganics.com<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "1a8a3841-e2db-49b0-8b2a-0a06875e7b03",
+          "e7df6673-ab3b-4f6b-baef-a80bf1461e2b",
+          "63e2ad83-53f0-41ac-bcbd-65dc679b15d0"
         ],
         "settings": {
           "color_scheme": "accent-1",
