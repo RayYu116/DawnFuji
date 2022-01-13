@@ -91,6 +91,13 @@
         "layout": "image_first"
       }
     },
+    "16420459004f03c7b0": {
+      "type": "section-custom-html",
+      "settings": {
+        "title": "",
+        "custom_html": "<div class=\"yotpo yotpo-reviews-carousel\" data-background-color=\"transparent\" data-mode=\"most_recent\" data-type=\"both\" data-count=\"9\" data-show-bottomline=\"1\" data-autoplay-enabled=\"1\" data-autoplay-speed=\"3000\" data-show-navigation=\"1\"> <\/div>"
+      }
+    },
     "1641963790054b7fbe": {
       "type": "apps",
       "blocks": {
@@ -148,6 +155,7 @@
     "featured_products",
     "1626679471a4e66e04",
     "16420443856fa25780",
+    "16420459004f03c7b0",
     "1641963790054b7fbe",
     "1641964462a48eb9a2"
   ]
