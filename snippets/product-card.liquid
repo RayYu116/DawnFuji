@@ -89,6 +89,30 @@
           <span class="card-information__text h5">
             {{ product_card_product.title | escape }}
           </span>
+        <style>
+.yotpo-bottomline.pull-left.star-clickable .text-m {
+margin-left: 5px;
+}
+</style>
+        <script>
+var yotpoIsReady = false;
+    (function checkForYotpo() {
+        setTimeout(function() {
+            if (typeof yotpo !== "undefined") {
+                if (yotpo.initialized === true) {
+                    yotpoIsReady = true;
+                    yotpo.refreshWidgets();
+                }
+            } else {
+                console.log('Checking for Yotpo...');
+            }
+            if (yotpoIsReady === false) checkForYotpo();
+        }, 250);
+    })();
+</script>
+        <div class="yotpo bottomLine"
+data-product-id="{{ product_card_product.id }}">
+</div>
         {%- endif -%}
 
         {% comment %} TODO: metafield {% endcomment %}
