@@ -56,11 +56,19 @@
           "settings": {
             "text": "<p>私たちは、「あしたのあなたのために、今日のあなたができること」をご提供します。溢れる活力と幸せで充実した生活を過ごせるよう、健康な身体作りをお手伝いします！<\/p>"
           }
+        },
+        "1f353d16-590c-4f71-b37a-ee9b7cc30b72": {
+          "type": "button",
+          "settings": {
+            "button_label": "詳しくはこちら",
+            "button_link": "https:\/\/fujiorganics.com\/pages\/about-us"
+          }
         }
       },
       "block_order": [
         "1642044385c672dc39-0",
-        "1642044385c672dc39-1"
+        "1642044385c672dc39-1",
+        "1f353d16-590c-4f71-b37a-ee9b7cc30b72"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/202102_Shopify_02.jpg",
