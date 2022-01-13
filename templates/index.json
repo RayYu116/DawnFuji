@@ -42,6 +42,20 @@
         "show_vendor": false
       }
     },
+    "1626679471a4e66e04": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "マッシュルームドリンクーブレインヘルスシリーズ",
+        "collection": "brain-series_nootropics",
+        "products_to_show": 6,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
     "16420443856fa25780": {
       "type": "image-with-text",
       "blocks": {
@@ -75,20 +89,6 @@
         "height": "adapt",
         "color_scheme": "background-2",
         "layout": "image_first"
-      }
-    },
-    "1626679471a4e66e04": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "マッシュルームドリンクーブレインヘルスシリーズ",
-        "collection": "brain-series_nootropics",
-        "products_to_show": 6,
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_vendor": false
       }
     },
     "1641963790054b7fbe": {
@@ -146,8 +146,8 @@
   "order": [
     "image_banner",
     "featured_products",
-    "16420443856fa25780",
     "1626679471a4e66e04",
+    "16420443856fa25780",
     "1641963790054b7fbe",
     "1641964462a48eb9a2"
   ]
