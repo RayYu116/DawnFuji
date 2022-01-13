@@ -95,7 +95,7 @@
       "type": "section-custom-html",
       "settings": {
         "title": "",
-        "custom_html": "<div class=\"yotpo yotpo-reviews-carousel\" data-background-color=\"transparent\" data-mode=\"most_recent\" data-type=\"both\" data-count=\"9\" data-show-bottomline=\"1\" data-autoplay-enabled=\"1\" data-autoplay-speed=\"3000\" data-show-navigation=\"1\"> <\/div>"
+        "custom_html": "<div class=\"yotpo yotpo-reviews-carousel\" data-header-customisation-enabled=\"1\" data-header-customisation-color=\"#56575f\" data-header-customisation-font-size=\"18\" data-header-customisation-text=\"お客様の声\" data-header-customisation-alignment=\"left\" data-background-color=\"transparent\" data-mode=\"most_recent\" data-type=\"both\" data-count=\"9\" data-show-bottomline=\"1\" data-autoplay-enabled=\"1\" data-autoplay-speed=\"3000\" data-show-navigation=\"1\"> <\/div>"
       }
     },
     "1641963790054b7fbe": {
