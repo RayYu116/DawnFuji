@@ -117,37 +117,6 @@
         "color_scheme": "background-2",
         "layout": "image_first"
       }
-    },
-    "1641964462a48eb9a2": {
-      "type": "newsletter",
-      "blocks": {
-        "1641964462b321c007-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Newsletter"
-          }
-        },
-        "1641964462b321c007-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>最新情報やお得なセールの案内をお届けします。<\/p>"
-          }
-        },
-        "1641964462b321c007-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1641964462b321c007-0",
-        "1641964462b321c007-1",
-        "1641964462b321c007-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
@@ -156,7 +125,6 @@
     "1626679471a4e66e04",
     "16420459004f03c7b0",
     "1641963790054b7fbe",
-    "16420443856fa25780",
-    "1641964462a48eb9a2"
+    "16420443856fa25780"
   ]
 }

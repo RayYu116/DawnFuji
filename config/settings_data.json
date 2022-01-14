@@ -79,7 +79,7 @@
         ],
         "settings": {
           "color_scheme": "accent-1",
-          "newsletter_enable": false,
+          "newsletter_enable": true,
           "newsletter_heading": "最新情報やお得なセールの案内をお届けします。",
           "show_social": true,
           "enable_country_selector": true,
